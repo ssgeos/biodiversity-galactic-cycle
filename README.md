@@ -1,5 +1,6 @@
 # Biodiversity, the Big Five, and the galactic cycle
 
+### Introduction
 Rohde & Muller (2005) analyzed Jack Sepkoski’s compendium of first and last stratigraphic appearances for 36,380 marine animal genera across the Phanerozoic (roughly the last 542 million years). After updating the time scale and removing the long-term trend, they found a statistically strong ~62 ± 3 million-year cycle in standing diversity.
 
 The cycle is most pronounced among short-lived genera (those lasting less than about 45 million years). It appears in both origination and extinction rates but is strongest in overall diversity. The five major mass extinctions, or “The Big Five”, identified by Raup and Sepkoski ‒ end-Ordovician (444 Ma), Late Devonian (372 Ma), end-Permian (252 Ma), end-Triassic (201 Ma), and end-Cretaceous (66 Ma) ‒ all fall on the declining phases of the cycle, suggesting they may be an expression of the same periodicity rather than wholly independent events.
@@ -10,6 +11,7 @@ A weaker secondary cycle of about 140 million years is also present, though it i
 
 The authors examined a range of possible drivers (sea-level change, climate, volcanism, galactic motion, etc.) but found no compelling match. Because galactic motion as a potential driver could be a plausible explanation, as galactic cycles span hundreds of millions of years, this is the option that we explored.
 
+### Galactic Cycles
 The Sun’s orbit around the Milky Way has a period P<sub>ϕ</sub> commonly quoted near 230–250 Myr, set by present radius R<sub>0</sub> and circular speed Θ<sub>0</sub>. Considering four cardinal phases or seasons, a quarter of that range is 58–62 Myr. The Sun also oscillates through the galactic midplane with a full vertical period P<sub>z</sub> of roughly 60–72 Myr. Today it sits ~15–21 pc north of the plane, moving further north; the last midplane crossing was ~2.7 Myr ago.
 
 So we have three cycles that sit in the same band: the fossil cycle (62 Myr), a vertical period P<sub>z</sub> (60-72 Myr), and the galactic seasons P<sub>ϕ</sub>/4 (58-62 Myr) at present R. If the diversity rhythm is a quarter sector or season of the galactic year (and vertical period P<sub>z</sub>), then the period is a function of where the Sun is:
@@ -25,6 +27,7 @@ and P<sub>z</sub>(R) likewise follows local disk density. The ~60–62 Myr numbe
 
 In this picture mass is not an alternative to geometry: the disk defines a plane and a year, and “where the Solar System sits” in that frame could modulate conditions on Earth, even if the micro-physical driver is unknown. Jitter of several Myr would be expected, as with the four seasons that do not begin on the solstice to the day.
 
+### Reconstructed Solar Height
 If an approximate 60 Myr rhythm is indeed in place due to current R, we can draw a corresponding sine wave through today’s height and the 2.7 Ma crossing. In that case the Big Five would not just be on the declining phase, but also south of the midplane. Since we cannot reliably reconstruct the position of the Sun on the galactic disk over many millions of years, we must consider a reasonable variability of R over the entire period.
 
 ![combined sun biodiversity](figures/combined_sun_biodiversity.png)
