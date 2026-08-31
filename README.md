@@ -23,7 +23,7 @@ $$
 
 and P<sub>z</sub>(R) likewise follows local disk density. The ~60–62 Myr number would then be only the value at present R. Farther in, the cycle should run faster; farther out, slower.
 
-In this picture geometry is not an alternative to mass: the disk defines a plane and a year, and “where the Solar System sits” in that frame could modulate conditions on Earth, even if the micro-physical driver is unknown. Jitter of several Myr would be expected, as with seasons that do not begin on the solstice to the day.
+In this picture mass is not an alternative to geometry: the disk defines a plane and a year, and “where the Solar System sits” in that frame could modulate conditions on Earth, even if the micro-physical driver is unknown. Jitter of several Myr would be expected, as with the four seasons that do not begin on the solstice to the day.
 
 If an approximate 60 Myr rhythm is indeed in place due to current R, we can draw a corresponding sine wave through today’s height and the 2.7 Ma crossing. In that case the Big Five would not just be on the declining phase, but also south of the midplane. Since we cannot reliably reconstruct the position of the Sun on the galactic disk over many millions of years, we must consider a reasonable variability of R over the entire period.
 
