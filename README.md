@@ -10,7 +10,7 @@ A weaker secondary cycle of about 140 million years is also present, though it i
 
 The authors examined a range of possible drivers (sea-level change, climate, volcanism, galactic motion, etc.) but found no compelling match. Because galactic motion as a potential driver could be a plausible explanation, as galactic cycles span hundreds of millions of years, this is the option that we explored.
 
-The Sun’s orbit around the Milky Way has a period P<sub>ϕ</sub> commonly quoted near 230–250 Myr, set by present radius R<sub>0</sub> and circular speed ϴ<sub>0</sub>. Considering four cardinal phases or seasons, a quarter of that range is 58–62 Myr. The Sun also oscillates through the galactic midplane with a full vertical period P<sub>z</sub> of roughly 60–72 Myr. Today it sits ~15–21 pc north of the plane, moving further north; the last midplane crossing was ~2.7 Myr ago.
+The Sun’s orbit around the Milky Way has a period P<sub>ϕ</sub> commonly quoted near 230–250 Myr, set by present radius R<sub>0</sub> and circular speed Θ<sub>0</sub>. Considering four cardinal phases or seasons, a quarter of that range is 58–62 Myr. The Sun also oscillates through the galactic midplane with a full vertical period P<sub>z</sub> of roughly 60–72 Myr. Today it sits ~15–21 pc north of the plane, moving further north; the last midplane crossing was ~2.7 Myr ago.
 
 So we have three cycles that sit in the same band: the fossil cycle (62 Myr), a vertical period P<sub>z</sub> (60-72 Myr), and the galactic seasons P<sub>ϕ</sub>/4 (58-62 Myr) at present R. If the diversity rhythm is a quarter sector or season of the galactic year (and vertical period P<sub>z</sub>), then the period is a function of where the Sun is:
 
@@ -33,6 +33,9 @@ A 540 Myr window is more than two galactic years. Ordinary epicyclic motion only
 
 If biodiversity is indeed locked to the galactic year, the 60 Myr period isn’t expected to be fixed during Earth’s lifespan, but should follow P<sub>4</sub>(R) as defined by formula 1.
 
+
 #### References
 [Cycles in fossil diversity - Rohde & Muller (2005)](https://www.nature.com/articles/nature03339)
+
+[Mass extinctions in the marine fossil record - Raup & Sepkoski](https://pubmed.ncbi.nlm.nih.gov/17788674/)
 
